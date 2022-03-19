@@ -15,7 +15,7 @@
     <tags>.NET,EZNEW,MySQL</tags>
     <dependencies>
       <group targetFramework=".NETStandard2.0">
-        <dependency id="MySql.Data" version="8.0.20" />
+        <dependency id="MySqlConnector" version="2.1.8" />
         <dependency id="EZNEW" version="3.5.0" />
       </group>
     </dependencies>
